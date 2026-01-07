@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Java
+target/
+*.class
+
+# Node (if frontend)
+node_modules/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# IDE
+.vs/
+.idea/
